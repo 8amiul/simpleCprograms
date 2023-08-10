@@ -2,8 +2,7 @@
   
    Usage: array_sorter [OPTION]
    -v    verbose output
-   
-   I know I could have implement an argument for help but I need some sleep.
+
 */
 
 #include <stdio.h>
@@ -66,4 +65,6 @@ int main(int argc, char *argv[])
       printf("%d ", *i);
     }
   printf("\n");
+  
+  free(array);
 }
