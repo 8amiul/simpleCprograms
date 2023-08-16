@@ -1,2 +1,2 @@
-# Lets_C_it
+# Let's_C_it
 Some newbie C programs.
